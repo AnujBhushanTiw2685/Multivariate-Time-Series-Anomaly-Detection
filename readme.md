@@ -1,6 +1,6 @@
 
 
-### Industrial Anomaly Detection with Isolation Forest:
+# Industrial Anomaly Detection with Isolation Forest:
 This project is a machine learning solution designed to automatically detect operational anomalies in multivariate time series data from industrial sensors. The core of the system is the Isolation Forest algorithm, an efficient, unsupervised method for identifying outliers.
 
 ## Core Functionality
